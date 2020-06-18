@@ -18,8 +18,15 @@
       "id": 6,
       "message": "fixed all 213",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2020-06-18T01:28:37.994Z"
+      "tech": "Tyson Fury",
+      "date": "2020-06-18T02:59:38.606Z"
+    },
+    {
+      "id": 7,
+      "message": "fix printer",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-06-18T02:45:01.520Z"
     }
   ],
   "techs": [
@@ -37,6 +44,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Tyson",
+      "lastName": "Fury",
+      "id": 4
     }
   ]
 }
