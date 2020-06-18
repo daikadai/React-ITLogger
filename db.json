@@ -11,8 +11,8 @@
       "id": 5,
       "message": "Destroy all devices 123",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2020-06-17T10:10:13.890Z"
+      "tech": "Tyson Fury",
+      "date": "2020-06-18T03:19:01.147Z"
     },
     {
       "id": 6,
@@ -30,16 +30,6 @@
     }
   ],
   "techs": [
-    {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
     {
       "id": 3,
       "firstName": "Sara",
